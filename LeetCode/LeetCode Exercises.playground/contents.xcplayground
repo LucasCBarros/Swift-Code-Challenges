@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Structure Reference'/>
+        <page name='Ex01 - Int Palindrome checker'/>
+        <page name='Ex02 - String Palindrome checker'/>
+        <page name='Ex03 - Roman to Int'/>
+        <page name='Ex04 - Longest Common Prefix'/>
+        <page name='Find Smallest Array For Sum'/>
+        <page name='Yelp Challenge 00 - Messages'/>
+        <page name='Yelp Challenge 01 - Reviews'/>
+        <page name='Yelp Challenge 02 - Interactions'/>
+        <page name='Ex05 - Parentheses Validator'/>
+    </pages>
+</playground>
