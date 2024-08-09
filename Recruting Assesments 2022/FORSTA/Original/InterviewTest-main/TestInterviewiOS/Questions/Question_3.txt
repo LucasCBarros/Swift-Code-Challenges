@@ -1,0 +1,24 @@
+Question #3
+
+a) Sort the printed list by manufacturer
+b) Add printing separator
+	- For simplicity, this is simple TextView with String "----------------------------------"
+	- Separator is only added when "first alphabet is changed in order"
+
+
+Expected Result:
+4	    Acer		  TV
+1004	Apple		  Phone	  iOS
+----------------------------------
+1003	Google		Phone	  Android
+----------------------------------
+5	    Insignia	TV
+----------------------------------
+2	    LG		    TV
+1002	LG		    Phone	  Android
+----------------------------------
+1	    Samsung		TV
+1001	Samsung		Phone	  Android
+3	    Sony		  TV
+----------------------------------
+6	    Toshiba		TV

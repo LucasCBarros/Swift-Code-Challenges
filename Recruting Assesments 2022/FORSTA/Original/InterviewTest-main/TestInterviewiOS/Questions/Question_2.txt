@@ -1,0 +1,16 @@
+Question #2
+
+We now need to add Key ID range rule to phone.
+-- ID range: starts from 1001
+
+Expected Result:
+1	    Samsung		TV
+2	    LG		    TV
+3	    Sony		  TV
+4	    Acer		  TV
+5	    Insignia	TV
+6	    Toshiba		TV
+1001	Samsung		Phone	  Android
+1002	LG		    Phone	  Android
+1003	Google		Phone	  Android
+1004	Apple		  Phone	  iOS

@@ -1,0 +1,44 @@
+Welcome!
+
+This is a simple inventory application that displays a list of products to the Console output
+
+Take your time to explore the project, understand the structure. 
+
+Run the application, see the example output.
+
+-----------------------------------------------------------------
+
+Question #1
+
+We need to add Phones to this inventory.  
+
+Add a Phone item type and use the following requirements:
+
+
+OK -- Phones have an OS: Android or iOS 
+	OK - if Manufacturer is Apple, then iOS. Otherwise, Android
+
+
+OK -- Following manufacturers are supported for Phone: Samsung, LG, Google, Apple
+
+OK -- New columns in the view
+	WIP- Electronic Type: TV or Phone
+	WIP- OS
+-- Make sure ID starts from 1 ALWAYS
+
+
+Make sure only have "Single Inventory"
+
+
+Expected Result:
+1	Samsung		TV
+2	LG		    TV
+3	Sony		  TV
+4	Acer		  TV
+5	Insignia	TV
+6	Toshiba		TV
+1	Samsung		Phone	  Android
+2	LG		    Phone	  Android
+3	Google		Phone	  Android
+4	Apple		  Phone	  iOS
+
