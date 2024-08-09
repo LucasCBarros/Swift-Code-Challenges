@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Untitled Page'/>
+        <page name='001 - Diagonal Difference '/>
+        <page name='002 - Compare the Triplets'/>
+        <page name='003 - Simple Array Sum'/>
+        <page name='004 - Solve Me First'/>
+        <page name='005 - Dynamic Array '/>
+        <page name='006 - 2D Array - DS '/>
+        <page name='007 - Arrays - DS'/>
+    </pages>
+</playground>
